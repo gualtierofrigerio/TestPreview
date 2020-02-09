@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PromiseThen",
+        "repositoryURL": "https://github.com/gualtierofrigerio/PromiseThen",
+        "state": {
+          "branch": null,
+          "revision": "b55c8e705037f940c34fb455683f8ebbe2b00512",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
